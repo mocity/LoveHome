@@ -1,0 +1,64 @@
+#addcon{
+font-size: 12px;
+font-family: "Microsoft Yahei", "Î¢ÈíÑÅºÚ", Tahoma, Arial, Helvetica, STHeiti;
+}
+#addleft{
+	width: 720px;
+	float:left;
+	border:1px solid #E9E9E9;
+}
+#addleftc{
+	
+	background-color: white;
+	padding: 25px 30px 30px 30px;
+	border-right: 1px solid #EDEDED;
+	min-height: 560px;
+	_height: 560px;
+	_padding-right: 29px;
+}
+#alh2 font{
+	font-size:20px;
+}
+#alh2 span{
+	float:right;
+	margin-top:10px;
+}
+#ptitle{
+	margin-top: 15px;
+	position: relative;
+	width: 659px;
+}
+#ptitle h3{
+	color: #454545;
+	font-weight: 400;
+	margin-bottom: 7px;
+	font-size: 14px;
+}
+.qpub-text-box{
+height: 46px;
+width: 659px;
+display: inline-block;
+background-image: url(input.png);
+background-repeat: no-repeat;
+}
+.qpub-text {
+height: 40px;
+height: 20pxurl(0);
+line-height: 20px;
+margin-top: 5px;
+margin-top: 15pxurl(0);
+padding-left: 10px;
+width: 649px;
+border: 0;
+background: transparent;
+font-size: 14px;
+color: #454545;
+}
+.small-tips{
+	font-size: 12px;
+	color: #959595;
+}
+#pcont{
+padding:15px 0;
+}
+#pbtn{text-align:right;}
